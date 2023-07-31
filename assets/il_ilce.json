@@ -1,0 +1,300 @@
+{
+  "iller" : [
+    {
+      "ilAdi" : "Adana",
+      "ilceler" : [
+        {
+          "ilceAdi": "Aladağ",
+          "hastaneler" : [
+            {
+              "hastaneAdi" : "Aladağ Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "Seyhan",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Adana Seyhan Devlet Hastanesi"
+            },
+            {
+              "hastaneAdi": "Askeri Hastane Baraj Yolu Ek Hizmet Binası"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "Ceyhan",
+          "hastaneler" : [
+            {
+              "hastaneAdi": "Adana Ceyhan Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "Çukurova",
+          "hastaneler": [
+            {
+              "hastaneAdi" : "Adana Çukurova Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "Yüreğir",
+          "hastaneler" : [
+            {
+              "hastaneAdi" : "Adana Yüreğir Devlet Hastanesi"
+            },
+            {
+              "hastaneAdi" : "Adana Numune Eğitim ve Araştırma Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "Sarıçam",
+          "hastaneler" : [
+            {
+              "hastaneAdi": "Balcalı Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "Karaisarlı",
+          "hastaneler" : [
+            {
+              "hastaneAdi" : "Karaisarlı Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "Karataş",
+          "hastaneler" : [
+            {
+              "hastaneAdi" : "Adana Yüreğir Devlet Hastanesi Karataş Abdullah Tekin Ek Hizmet Binası"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "Kozan",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Kozan Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "İmamoğlu",
+          "hastaneler": [
+            {
+              "hastaneAdi": "İmamoğlu Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Pozantı",
+          "hastaneler" : [
+            {
+              "hastaneAdi" : "Pozantı 80.Yıl Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "Saimbeyli",
+          "hastaneler" : [
+            {
+              "hastaneAdi" : "Saimbeyli Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "Feke",
+          "hastaneler" : [
+            {
+              "hastaneAdi": "Feke Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "Tufanbeyli",
+          "hastaneler" : [
+            {
+              "hastaneAdi" : "Tufanbeyli Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "Yumurtalık",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Yumurtalık Devlet Hastanesi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ilAdi": "Adıyaman",
+      "ilceler": [
+        {
+          "ilceAdi": "Adıyaman Merkez",
+          "hastaneler": [
+            {
+              "hastaneAdi" : "Adıyaman Devlet Hastanesi"
+            },
+            {
+              "hastaneAdi": "Adıyaman Üniversitesi Eğitim Ve Araştırma Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi" : "Besni",
+          "hastaneler": [
+            {
+              "hastaneAdi" : "Besni Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Gerger",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Gerger Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Gölbaşı",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Gölbaşı Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Samsat",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Samsat İlçe Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Sincik",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Sincik Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Tut",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Tut İlçe Devlet Hastanesi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ilAdi": "Afyonkarahisar",
+      "ilceler": [
+        {
+          "ilceAdi": "Afyonkarahisar Merkez",
+          "hastaneler": [
+            {
+              "hastaneAdi" : "Afyonkarahisar Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Bayat",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Dr. Mete Tan Bayat Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Bolvadin",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Dr. Halil İbrahim Özsoy Bolvadin Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Çay",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Çay Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Çobanlar",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Çobanlar İlçe Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Dazkırı",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Dazkırı Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Dinar",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Dinar İlçe Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Emirdağ",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Emirdağ Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Evciler",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Evciler Entegre Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "Hocalar",
+          "hastaneler": [
+            {
+              "hastaneAdi": "Hocalar Entegre Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "İhsaniye",
+          "hastaneler": [
+            {
+              "hastaneAdi": "İhsaniye Kızılay Devlet Hastanesi"
+            }
+          ]
+        },
+        {
+          "ilceAdi": "İscehisar",
+          "hastaneler": [
+            {
+              "hastaneAdi": "İscehisar Devlet Hastanesi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
